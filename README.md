@@ -84,12 +84,3 @@ Factorial of 5 is: 120
 * Input handling and formatted output
 * Basic arithmetic operations
 
-💡 *Learning Outcome*
-
-After completing these tasks, you will be able to:
-
-* Write and call Python functions effectively.
-* Understand recursion and iteration.
-* Use the math module to simplify complex calculations.
-* Structure clean and readable Python scripts.
-
